@@ -1,0 +1,11 @@
+{
+  "productid":"111",
+  "productname":"tv",
+  "productprice":"250",
+  "color":["red","green","blue","yellow"],
+  "manufacturer":{
+    "mfrname":"sony",
+    "city":"osaka",
+    "website":"http://www.sony.com"
+  }
+}
